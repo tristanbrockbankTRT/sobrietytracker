@@ -1,0 +1,22 @@
+{
+  "author": "Team Recovery",
+  "pluginName": "Sobriety Tracker",
+  "pluginDescription": "Plugin accepts user's sober date and average weekly expense then tracks total sober days, awards badges and icons, and calculates savings.",
+  "supportEmail": "info@teamrecovery.io",
+  "control": {
+    "content": {
+      "enabled": true
+    },
+    "design": {
+      "enabled": false
+    },
+    "settings": {
+      "enabled": false
+    }
+  },
+  "widget": {},
+  "features": [],
+  "languages": [
+    "en"
+  ]
+}
